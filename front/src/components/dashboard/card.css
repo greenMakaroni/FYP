@@ -1,0 +1,23 @@
+.card-body-full {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+
+.half-card {
+    width: 45%;
+    margin: 3% 0 3% 0;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.background-custom {
+    background-color: rgba(128, 128, 128, 0);
+}
